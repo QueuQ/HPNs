@@ -3,7 +3,7 @@
 Implementations of Hierarchical Prototype Networks for Continual Graph Representation Learning. [paper](https://arxiv.org/abs/2111.15422)
 
 <div align="center">
-    <img src="./resource/pipeline.jpg">
+    <img src="resources/pipeline.jpg">
 </div>
 
 ## Dependencies
