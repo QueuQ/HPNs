@@ -14,6 +14,7 @@ Our final test was done with the following configurations. However, early versio
 * ogb == 1.3.1
  
 ## Data preprocessing
+All datasets are uploaded except the two OGB datasets which are too large for github. For these two datasets, the preprocessing codes described below provide the entire process for downloading and preprocessing.
 On the large datasets including OGB-Arxiv and OGB-Products, to avoid wasting time on splitting the dataset into a sequence of tasks each time when running the programs, we added code to store the preprocessed data. 
 If you wish to preprocess both OGB-Arxiv and OGB-Products together, please run the following command
 ``` shell
