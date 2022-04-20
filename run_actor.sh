@@ -1,0 +1,14 @@
+python train_continual.py --dim-proto 8 \
+--dim-cls 8 \
+--batch-size 100 \
+--test-batch-size 5000 \
+--devices 0 \
+--num-epochs 90 \
+--proto_est_epo 35 \
+--proto_cls_epo 50 \
+--data_name film \
+--lr-decay 35 35 \
+--n_nbs_per_hop 1 \
+--n_AFE_a_select 1 \
+--n_AFE_r_select 2 \
+--atom_t 0.2
