@@ -8,7 +8,7 @@ Implementations of Hierarchical Prototype Networks for Continual Graph Represent
 </div>
 
 
-'''
+ ```
 @article{Zhang23TPAMI,
   title        = {Hierarchical Prototype Networks for Continual Graph Representation Learning},
   author       = {Xikun Zhang and Dongjin Song and Dacheng Tao},
@@ -20,7 +20,7 @@ Implementations of Hierarchical Prototype Networks for Continual Graph Represent
   url          = {https://doi.org/10.1109/TPAMI.2022.3186909},
   doi          = {10.1109/TPAMI.2022.3186909},
 }
-'''
+ ```
 
 ## Dependencies
 Our final test was done with the following configurations. However, early versions of these packages may also work.
