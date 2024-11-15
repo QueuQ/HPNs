@@ -1,6 +1,12 @@
 # Hierarchical Prototype Networks for Continual Graph Representation Learning (HPNs)
 
-Implementations of Hierarchical Prototype Networks for Continual Graph Representation Learning. [paper](https://arxiv.org/abs/2111.15422)
+Implementations of Hierarchical Prototype Networks for Continual Graph Representation Learning. [paper](https://doi.org/10.1109/TPAMI.2022.3186909)
+
+
+<div align="center">
+    <img src="resources/pipeline.jpg">
+</div>
+
 
 
 @article{Zhang23TPAMI,
@@ -15,9 +21,6 @@ Implementations of Hierarchical Prototype Networks for Continual Graph Represent
   doi          = {10.1109/TPAMI.2022.3186909},
 }
 
-<div align="center">
-    <img src="resources/pipeline.jpg">
-</div>
 
 ## Dependencies
 Our final test was done with the following configurations. However, early versions of these packages may also work.
