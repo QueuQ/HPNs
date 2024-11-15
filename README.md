@@ -9,7 +9,7 @@ Implementations of Hierarchical Prototype Networks for Continual Graph Represent
 
 
 
-@article{Zhang23TPAMI,
+@inproceedings{Zhang23TPAMI,
   title        = {Hierarchical Prototype Networks for Continual Graph Representation Learning},
   author       = {Xikun Zhang and Dongjin Song and Dacheng Tao},
   journal      = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
